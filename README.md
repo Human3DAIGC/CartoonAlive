@@ -4,7 +4,7 @@
 <div align="center">
 
 [![Project Website](https://img.shields.io/badge/🌐-Project_Website-blueviolet)](https://human3daigc.github.io/Textoon_webpage/)
-[![arXiv Paper](https://img.shields.io/badge/📜-arXiv:2501-10020)](https://arxiv.org/pdf/2501.10020)
+[![arXiv Paper](https://img.shields.io/badge/📜-arXiv:2501-10020)](https://arxiv.org/abs/2507.17327)
 [![Apache License](https://img.shields.io/badge/📃-Apache--2.0-929292)](https://www.apache.org/licenses/LICENSE-2.0)
 
 </div>
